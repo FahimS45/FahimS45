@@ -21,9 +21,9 @@
 class FahimShahriar:
     role        = "AI Engineer"
     location    = "Dhaka, Bangladesh 🇧🇩"
-    education   = "M.Sc Computer Science @ North South University (CGPA: 3.67)"
+    background  = "Engineering grad (KUET) → now M.Sc CS student @ North South University"
     focus       = ["LLM Integration", "RAG Pipelines", "Multi-Agent Systems", "AI Automation"]
-    currently   = "Building production-grade AI systems & growing every single day 📈"
+    currently   = "Learning every day, building real AI systems, open to opportunities 🚀"
     publications = "1× Q2 Journal | 1× Q1 Under Review | 2× Conference Papers"
     
     def say_hi(self):
