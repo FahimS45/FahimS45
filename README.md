@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A56DB,100:0EA5E9&height=200&section=header&text=Fahim%20Shahriar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLM%20Systems%20%7C%20RAG%20%7C%20Multi-Agent&descAlignY=58&descSize=16&descColor=cbd5e1" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A56DB,100:0EA5E9&height=200&section=header&text=Fahim%20Shahriar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20%7C%20DL%20%7C%20Data%20Science%20%7C%20Researcher%20%7C%20LLM%20Systems%20%7C%20RAG%20%7C%20Multi-Agent&descAlignY=58&descSize=14&descColor=cbd5e1" />
 
 </div>
 
@@ -19,10 +19,12 @@
 
 ```python
 class FahimShahriar:
-    role        = "AI Engineer"
+    role        = "AI Engineer | ML | DL | Data Science | Researcher"
     location    = "Dhaka, Bangladesh 🇧🇩"
     background  = "Engineering grad (KUET) → now M.Sc CS student @ North South University"
-    focus       = ["LLM Integration", "RAG Pipelines", "Multi-Agent Systems", "AI Automation"]
+    focus       = ["Machine Learning", "Deep Learning", "Data Science",
+                   "LLM Integration", "RAG Pipelines", "Multi-Agent Systems",
+                   "AI Research & Automation"]
     currently   = "Learning every day, building real AI systems, open to opportunities 🚀"
     publications = "1× Q2 Journal | 1× Q1 Under Review | 2× Conference Papers"
     
@@ -36,6 +38,7 @@ class FahimShahriar:
 
 ### 🤖 AI / LLM
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
@@ -94,16 +97,16 @@ class FahimShahriar:
 <tr>
 <td width="50%">
 
-**🧭 Guide Genie — Multi-Agent Flow**
-> Multi-agent system that auto-generates "Getting Started" guides for any product/tool.
-`CrewAI` `LangChain` `Multi-Agent`
+**🔄 [Advanced RAG: Self-Reflective RAG Chatbot](https://github.com/FahimS45/advRag/tree/main/self_rag_chatbot)**
+> Self-reflective RAG chatbot that critiques and refines its own retrievals and generations for higher answer quality.
+`LangGraph` `LangChain` `Self-RAG` `LLM`
 
 </td>
 <td width="50%">
 
-**📰 AI-Powered Web Summarizer**
-> Scrape any website with FireCrawl and produce structured summaries using LLMs.
-`FireCrawl` `OpenAI SDK` `FastAPI`
+**📈 [NLP Reddit Trend Detection](https://github.com/t4niha/Trend-Finder)**
+> End-to-end pipeline to scrape Reddit, cluster discussions, and surface emerging trends via LLM-powered analysis.
+`ScrapeAPI` `PostgreSQL` `HDBSCAN` `LLM` `FastAPI`
 
 </td>
 </tr>
