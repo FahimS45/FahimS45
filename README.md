@@ -19,7 +19,7 @@
 
 ```python
 class FahimShahriar:
-    role        = "AI Engineer | ML | DL | Data Science | Researcher"
+    role        = "AI Engineer | Data Scientist | Researcher"
     location    = "Dhaka, Bangladesh 🇧🇩"
     background  = "Engineering grad (KUET) → now M.Sc CS student @ North South University"
     focus       = ["Machine Learning", "Deep Learning", "Data Science",
